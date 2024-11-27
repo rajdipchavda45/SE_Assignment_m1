@@ -1,2 +1,3 @@
 # SE_Assignment_m1
-this is fundamental of programming, www( world wide web), network layer and client and servers, types of internet, protocal, source code, introduction to github, sdlc(software development life cycle), web application, dfd( data flow diagram), flow chart.
+This includes the fundamentals of programming, the World Wide Web, network layers, clients and servers, types of internet connections, protocols, source code, an introduction to GitHub, the software development life cycle (SDLC), web applications, data flow diagrams (DFD), and flow charts.
+
